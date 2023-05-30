@@ -1,0 +1,16 @@
+*{
+    margin-top:50px;
+    padding: 0;
+}
+
+#img_1 ,#img_2{
+    margin-left: 10%;
+    width: 30%;
+}
+
+button
+{
+    margin-left:43%;
+    width: 5%;
+    height: 25px;
+}
